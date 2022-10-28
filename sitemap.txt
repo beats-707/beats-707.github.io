@@ -1,7 +1,8 @@
+http://example.com/schedule/%E5%AE%9E%E8%AE%AD4.html
+http://example.com/2022/10/20/My-New-Post/
 http://example.com/tags/index.html
 http://example.com/sitemap/index.html
 http://example.com/search/index.html
-http://example.com/schedule/index.html
 http://example.com/about/index.html
 http://example.com/commonweal/index.html
 http://example.com/categories/index.html
